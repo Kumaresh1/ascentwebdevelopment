@@ -1,0 +1,50 @@
+
+#t-con{
+    
+
+    cursor: pointer;
+    padding:7%;
+    /* margin-top: -30%; */
+    
+    
+}
+
+
+
+
+.i-t1{
+border:1px solid whitesmoke;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width:250px;
+height: auto;
+
+box-shadow: 2px 2px 2px #aaaaaa;
+padding:10px;
+border-radius: 10px;
+margin-left: 7%;
+margin-bottom: 11%;
+float: left;
+cursor: pointer;
+text-align: center;
+width:270px;
+height: 350px;
+
+
+}
+
+
+
+#provider{
+
+color:lightslategray;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+	padding:  15px;
+    padding-left: 30px;
+    
+    
+
+}
+
+
+
