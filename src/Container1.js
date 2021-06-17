@@ -8,7 +8,7 @@ export default function container1() {
 
 <div className="z-con">
 
-<h2>About</h2>
+<h1>About</h1>
             <p className="des">
 We create and maintain static websites and design custom impressive websites for your Business.
 Manage your Employees and data with custom templates .Express your work  with websites and increase your

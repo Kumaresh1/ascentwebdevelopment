@@ -10,12 +10,27 @@ html{
   height: 100%;
 }
 
+body{
+  
+}
 .se-v{
     
 }
 
 .App{
 
+}
+
+.o-p-w{
+
+
+  font-size:30px;
+ width: max-content;
+  border-bottom: 6px solid #0bb1e3;
+  color:#999fa1;
+  font-family:sans-serif;
+  font-weight:lighter;
+  margin-left: 50px;
 }
 
 

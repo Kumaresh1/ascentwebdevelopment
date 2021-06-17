@@ -24,7 +24,7 @@ export default function nav_header() {
         <div className="container">
             <div className="logo">         
 <img src={logo} 
-            className="l_img" alt="logo"
+            className="l_img" alt="ascent web developments logo"
             /></div>
  <img src={nicon} width="30px" height="30px" id="p-im-g" onClick={myfunc} alt="icon"
  />
